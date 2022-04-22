@@ -24,10 +24,11 @@ module.exports = {
       },
     },
     navbar: {
-      title: "Helix",
+      title: "",
       logo: {
         alt: "Helix",
-        src: "img/logo.svg",
+        srcDark: "img/logoDark.svg",
+        src: "img/logoLight.svg",
       },
       items: [
         {
