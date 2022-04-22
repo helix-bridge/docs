@@ -1,4 +1,4 @@
-## wormhole-docs
+## helix-docs
 
 ```
 yarn install

@@ -1,12 +1,12 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "Wormhole Docs",
-  url: "https://docs.wormhole.io",
+  title: "Helix Docs",
+  url: "https://docs.helix.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "wormhole",
+  organizationName: "helix",
   projectName: "docs",
   themeConfig: {
     colorMode: {
@@ -24,25 +24,20 @@ module.exports = {
       },
     },
     navbar: {
-      title: "Wormhole",
+      title: "Helix",
       logo: {
-        alt: "Wormhole",
+        alt: "Helix",
         src: "img/logo.svg",
       },
       items: [
         {
-          href: "https://github.com/darwinia-network",
+          href: "https://github.com/helix-bridge",
           className: "github",
           position: "right",
         },
         {
-          href: "https://twitter.com/darwinianetwork",
+          href: "https://twitter.com/helixbridges",
           className: "twitter",
-          position: "right",
-        },
-        {
-          href: "https://discord.com/channels/456092011347443723/795384466930663434",
-          className: "discord",
           position: "right",
         },
         {
@@ -52,7 +47,7 @@ module.exports = {
       ],
     },
     prism: {
-      theme: require("./src/wormhole"),
+      theme: require("./src/helix"),
     },
     footer: {
       style: "dark",
@@ -61,8 +56,8 @@ module.exports = {
           title: "About",
           items: [
             {
-              label: "Wormhole",
-              to: "https://darwinia.network",
+              label: "Helix",
+              to: "https://helixbridge.app/",
             },
           ],
         },
@@ -80,16 +75,16 @@ module.exports = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/darwinia-network",
+              href: "https://github.com/helix-bridge",
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/darwinianetwork",
+              href: "https://twitter.com/helixbridges",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Wormhole is developed by The Wormhole Project.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Helix is developed by The Helix Project.`,
     },
   },
   plugins: [require.resolve("docusaurus-lunr-search")],
@@ -100,7 +95,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
-          editUrl: "https://github.com/darwinia-network",
+          editUrl: "https://github.com/helix-bridge",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

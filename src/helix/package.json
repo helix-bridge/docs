@@ -1,5 +1,5 @@
 {
-  "name": "wormhole",
+  "name": "helix",
   "private": true,
   "sideEffects": false,
   "main": "index.cjs.js",

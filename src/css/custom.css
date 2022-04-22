@@ -99,8 +99,6 @@ body {
 .container h6 {
   font-family: var(--ifm-font-family-monospace);
   font-weight: normal;
-  text-transform: uppercase;
-  display: flex;
 }
 
 .container h3:before,

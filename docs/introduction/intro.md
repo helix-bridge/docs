@@ -1,10 +1,10 @@
 ---
 id: intro
 sidebar_position: 1
-sidebar_label: About Wormhole
+sidebar_label: About Helix
 ---
 
-# Wormhole Bridge For Tokens From Kinds Of Chains
+# About Helix
 
 ## Introduction
 
