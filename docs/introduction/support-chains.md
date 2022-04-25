@@ -1,6 +1,6 @@
 ---
 id: support_chains
-sidebar_position: 2
+sidebar_position: 1
 sidebar_label: Support Chains
 ---
 
