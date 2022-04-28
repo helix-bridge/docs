@@ -1,5 +1,5 @@
 ---
-id: intro
+id: helix
 sidebar_position: 1
 sidebar_label: Helix Bridge
 slug: /
