@@ -1,5 +1,5 @@
 ---
-id: Cross_Chain_Asset_Transfer
+id: Cross Chain Asset Transfer
 sidebar_position: 1
 sidebar_label: Cross Chain Asset Transfer
 ---
@@ -9,9 +9,9 @@ sidebar_label: Cross Chain Asset Transfer
 3. **Select a target network and the corresponding token** that you want to receive.
 ![01](../../static/img/step03-select-target-oken.png)
 *The options for available tokens and target networks depend on your selection in the previous step.*
-4. **Choose the appropriate bridge** for the transfer:
-a. Fill in the transfer amount, the available bridges will be displayed on the right side. 
-b. Choose one of them, and you’ll see the estimated transaction fee and estimated token amount you‘ll receive on the target chain. 
+4. **Choose the appropriate bridge** for the transfer:    
+a. Fill in the transfer amount, the available bridges will be displayed on the right side.     
+b. Choose one of them, and you’ll see the estimated transaction fee and estimated token amount you‘ll receive on the target chain.     
 c. Make a choice then with this information as a reference.
 ![01](../../static/img/step04-choose-a-bridge.png)
 5. **Connect the corresponding wallet**, e.g., polkadot{.js}(for RING), MetaMask (for USDT) ...
