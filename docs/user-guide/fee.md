@@ -45,7 +45,7 @@ The only fees you need to pay are Gas fees (for transactions), and Msg Bridgi
   So with all that in mind, here is an example of a basic gas fee calculation.   
 
   Let’s say that Alice wants to make a transaction from Ethereum to Darwinia on Helix.
-The current gas price is 18 gwei, the ETH costs US$1000.
+The current gas price is 18 gwei. The live Ethereum price today is $1,000 USD per ETH.
 
   The gas calculation formula is: 130,000 (gas limit) \* 18 (gwei) \* 0.000000001 (ETH) =0.00234 ETH   
 or you can say that Alice has to pay US$2.34 for the transaction from Ethereum to Darwinia.
