@@ -1,5 +1,5 @@
 ---
-id: nft_protocal
+id: nft_protocol
 sidebar_position: 2
 sidebar_label: NFT
 ---

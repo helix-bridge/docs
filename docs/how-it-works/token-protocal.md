@@ -1,10 +1,10 @@
 ---
-id: token_protocal
+id: token_protocol
 sidebar_position: 1
-sidebar_label: Token Protocal
+sidebar_label: Token Protocol
 ---
 
-# Token Protocal
+# Token Protocol
 
 An important part of Helix's business is hosting user assets and completing cross-chain asset transfers. It uses an asset registration and cross-chain protocol based on the CBA (Cryptocurrency Backed Asset) model.
 
@@ -58,7 +58,7 @@ In this version, any cross-chain transfer message will receive a reply from targ
 
 So the transaction integrity of this version is strictly dependent on the transactions of the message bridge, and if the message bridge does not have a response process, the transaction atomicity of the asset bridge cannot be accomplished.
 
-* Token Protocal V2
+* Token Protocol V2
 
 In this version, we have updated the transaction processing flow, if the issue of mapped assets on the target chain is successful, the transaction will end, if the issue fails, the user can get the issue failure proof to redeem the original token and complete the transaction.
 
