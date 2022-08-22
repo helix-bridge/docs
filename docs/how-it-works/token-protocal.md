@@ -16,7 +16,7 @@ Rrefer to the source blockchain network and the target blockchain network for cr
 
 * Origin Token And Mapping Token
 
-This is a relative term. Original token usually refer to assets that have not been bridged to the target chain., such as BTC on the Bitcoin network, ETH or USDT on the Ethernet network. As opposed to a mapping token, which is located on the source chain end of the bridge, and a mapping token, which is located on the target chain end of the bridge, and is a type of asset created with the backing of the original token.
+This is a relative term. Original token usually refer to assets that have not been bridged to the target chain., such as BTC on the Bitcoin network, ETH or USDT on the Ethernet network. As opposed to a orgin token, which is located on the source chain end of the bridge, and a mapping token, which is located on the target chain end of the bridge, and is a type of asset created with the backing of the original token.
 
 * Relayer
 
