@@ -1,40 +1,17 @@
 ---
-id: supported_bridges
+id: supported_chains_tokens_bridges
 sidebar_position: 2
-sidebar_label: Supported Bridges
+sidebar_label: Supported Chains, tokens, Bridges
 ---
 
-# Overview
+# Supported Chains, tokens, Bridges
 
-|  Chains Pair                  | Token Protocol | Message Protocol | Tech               |
+
+|  Supported Chains             | Supported Tokens | Bridges| Tech    |
 | ----------------------------- | -------------- | ---------------- | ------------------ |
-| Darwinia <\> Crab Smart Chain | Helix(v1)      | Darwinia         | Light Client       |
-| Ethereum <\> Darwinia         | Helix(v1)      | Darwinia         | Light Client       | 
-| Crab     <\> Crab Smart Chain | Helix          | Darwinia         | Direct Transaction |
-| Crab     <\> Crab Parachain   | Helix          | Darwinia         | Light Client       |
-| Crab Smart Chain <\> Heco     | cBridge        | cBridge          | External validators|
-| Crab Smart Chain <\> Polygon  | cBridge        | cBridge          | External validators|
-| Crab Smart Chain <\> Ethereum | cBridge        | cBridge          | External validators|
-| Heco <\> Ethereum             | cBridge        | cBridge          | External validators|
-| Heco <\> Polygon              | cBridge        | cBridge          | External validators|
-| Ethereum <\> Polygon          | cBridge        | cBridge          | External validators|
-| Optimism <\> Ethereum         | cBridge        | cBridge          | External validators|
-| Optimism <\> Polygon          | cBridge        | cBridge          | External validators|
-| Optimism <\> Avalanche        | cBridge        | cBridge          | External validators|
-| Optimism <\> BNB Chain        | cBridge        | cBridge          | External validators|
-| Optimism <\> Crab Smart Chain | cBridge        | cBridge          | External validators|
-| Astar <\> Crab Smart Chain    | cBridge        | cBridge          | External validators|
-| Astar <\> Avalanche           | cBridge        | cBridge          | External validators|
-| Astar <\> BNB Chain           | cBridge        | cBridge          | External validators|
-| Astar <\> Ethereum            | cBridge        | cBridge          | External validators|
-| Astar <\> Arbitrum            | cBridge        | cBridge          | External validators|
-| Avalanche <\> Arbitrum        | cBridge        | cBridge          | External validators|
-| Avalanche <\> Crab Smart Chain| cBridge        | cBridge          | External validators|
-| Avalanche <\> Ethereum        | cBridge        | cBridge          | External validators|
-| Avalanche <\> Polygon         | cBridge        | cBridge          | External validators|
-| Avalanche <\> BNB Chain       | cBridge        | cBridge          | External validators|
-| BNB Chain <\> Ethereum        | cBridge        | cBridge          | External validators|
-| BNB Chain <\> Polygon         | cBridge        | cBridge          | External validators|
+| Ethereum, Darwinia, Crab Smart Chain, Crab Parachain | RING, KTON, CRAB, xRING | Helix(v1) | Light Client       |
+| Ethereum, Crab Smart Chain, Heco, Polygon, Optimism, Avalanche, BNB Chain, Astar, Arbitrum   |  USDT, USDC, BUSD, RING  | cBridge  |External validators|
+
 
 # Bridge Aggregation
 ## Celer cBridge
@@ -49,7 +26,7 @@ sidebar_label: Supported Bridges
 
 Although we believe that cBridge is a quality security asset bridge due to the above analysis, Helix only provides access to the bridge and users should be aware of their own security risks when choosing a bridge.
 
-Official: Website https://www.celer.network
+Official Website: https://www.celer.network
 
 Twitter: https://twitter.com/CelerNetwork
 
