@@ -1,10 +1,10 @@
 ---
 id: supported_chains_tokens_bridges
 sidebar_position: 2
-sidebar_label: Supported Chains, tokens, Bridges
+sidebar_label: Supported Chains, Tokens, Bridges
 ---
 
-# Supported Chains, tokens, Bridges
+# Supported Chains, Tokens, Bridges
 
 
 |  Supported Chains             | Supported Tokens | Bridges| Tech    |
