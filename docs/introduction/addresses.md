@@ -35,8 +35,7 @@ sidebar_label: Addresses
 
 ## cBridge
 
-pool-based bridge
+For contract addresses please refer to [cBridge Docs](https://cbridge-docs.celer.network/reference/contract-addresses)
 
-* Heco [0xBB7684Cc5408F4DD0921E5c2Cadd547b8f1AD573](https://hecoinfo.com/address/0xBB7684Cc5408F4DD0921E5c2Cadd547b8f1AD573)
-* Crab Smart Chain [0x841ce48F9446C8E281D3F1444cB859b4A6D0738C](https://subview.xyz/address/0x841ce48F9446C8E281D3F1444cB859b4A6D0738C)
+
 

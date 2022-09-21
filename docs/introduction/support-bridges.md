@@ -32,3 +32,14 @@ Twitter: https://twitter.com/CelerNetwork
 
 Github: https://github.com/celer-network
 
+## Cross-Consensus Messaging (XCM)
+Helix has integrated XCM function since version 4.2.0（released on Aug 24 2022)    
+
+XCM is a language for building innovative new cross-chain applications and services. Polkadot sets the standard with XCM, a powerful format for secure messaging across Polkadot-native blockchains (called parachains) and with external networks via bridges.
+We integrate XCM for the following reasons: 
+
+* **Secure & trustless**: Messages between parachains share the same high security as the entire network, and do not require funds to be deposited with centralized and vulnerable third-party custodians.
+* **Cross-consensus**: XCM works not just between different blockchains but also between smart contracts on different virtual machines, between Substrate pallets, and over bridges. It can even connect networks built on different consensus mechanisms.
+* **Affordable Fee Cost**   
+
+More information can be found in [Polkadot's Wiki](https://wiki.polkadot.network/docs/learn-xcm)
