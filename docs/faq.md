@@ -34,12 +34,12 @@ sidebar_label: FAQ
     For the Polkadot{.js} extension, please check *Manage Website Access* and make sure you've allowed https://helixbridge.app/ to access your account.   
    
 <div align="center">
-<img src="../static/img/FAQ-wallet-setup01.png" width = "405" height = "432"/>
-<img src="../static/img/FAQ-wallet-setup02.png" width = "395" height = "158"/>
-</div>    
-For MetaMask extension, please make sure the account is connected to https://helixbridge.app/.         
+<img src="../img/FAQ-wallet-setup01.png" width = "405" height = "432"/>
+<img src="../img/FAQ-wallet-setup02.png" width = "395" height = "158"/>
+</div>     
+    For MetaMask extension, please make sure the account is connected to https://helixbridge.app/.         
 <div align="center">
-<img src="../static/img/FAQ-wallet-setup03.png" width = "260" height = "232"/>
+<img src="../img/FAQ-wallet-setup03.png" width = "260" height = "232"/>
 </div>    
 
 7. **Do you have any Testnet Website for developers?**
