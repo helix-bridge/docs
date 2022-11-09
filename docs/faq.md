@@ -29,7 +29,7 @@ sidebar_label: FAQ
     Please note the options for available tokens and networks that you can transfer to depend on your selection in the previous step. So if you finished selecting the token and network you want to transfer, the options for the token and network that you can transfer to are all listed on the `select token` popup window. If you identify a token we don't support yet, email to [us](mailto:hello@helixbridge.app) and we can list it. 
 
     Make sure you check the chain before searching the token address!
-5. **I can't access the account in my wallet…**   
+6. **I can't access the account in my wallet…**   
     You need to give the website permissions to see address, account balance in your wallet extension.    
     For the Polkadot{.js} extension, please check *Manage Website Access* and make sure you've allowed https://helixbridge.app/ to access your account.   
    
@@ -42,6 +42,6 @@ For MetaMask extension, please make sure the account is connected to https://hel
 <img src="../static/img/FAQ-wallet-setup03.png" width = "260" height = "232"/>
 </div>    
 
-6. **Do you have any Testnet Website for developers?**
+7. **Do you have any Testnet Website for developers?**
     
     You can try our [testnet website](https://helix-apps-test.vercel.app/) during your develop work.
