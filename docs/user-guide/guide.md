@@ -22,7 +22,7 @@ The current sender address will show in the the top right corner of the page, wh
 6.  Click `Transfer` and you will receive a popup for transfer confirmation. Click `Confirm` only when every detail is checked. 
 ![01](../../static/img/confirm-transfer.png)
 7. Then you will be prompted to **confirm the transaction in your wallet**. After confirming in your wallet, you have submitted the transaction. You can track the transfer progress by clicking on the "transaction history" in the pop-up window.
-![01](../../static/img/notification.png)
+![01](../../static/img/Notification.png)
 8. When the transfer is completed, the transaction status will turn to “Success”. 
 You can view all your transfer records in the Explorer Page by connecting to the specific account address or just searching for your account. Click the record and navigate to the transaction detail page to view and track the transfer progress.
 ![01](../../static/img/records.png)
