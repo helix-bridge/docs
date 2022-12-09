@@ -15,10 +15,10 @@ sidebar_label: FAQ
     
     Helix doesn't charge any fees. The only fees you need to pay are Gas fees (for transactions), and Msg bridging fees (fee paid to bridging provider). For more details, please check on [this page](https://docs.helixbridge.app/user-guide/fee).
     
-3. **Where can I find the transfer record?**
-    
-    You can view all your transfer records by connecting to the specific account address, which is the account you transferred from, and click `History` in the top right  corner of the page.
-    ![01](../static/img/FAQ-1.png)
+3. **Where can I find the transfer record?**   
+    You can view all your transfer records in the Explorer Page by connecting to your account, or just search for the account. Another way is to and click `History` in the top right  corner of the Transfer page with your account connected.
+    ![01](../static/img/records.png)
+    ![01](../static/img/History.png)
 4. **Where is the contract address used in Helix?**
     + You can check on [this page](https://docs.helixbridge.app/introduction/contract_addresses) for the list of contract addresses used in Helix Bridge.
     + You can check on [this page](https://cbridge-docs.celer.network/reference/contract-addresses#contract-address) for the list of contract addresses used in cBridge.
