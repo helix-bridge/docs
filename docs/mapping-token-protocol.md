@@ -1,7 +1,7 @@
 ---
-id: token_protocol
-sidebar_position: 1
-sidebar_label: Token Protocol
+id: mapping_token_protocol
+sidebar_position: 3
+sidebar_label: Protocol(Mapping Token)
 ---
 
 # Token Protocol
@@ -23,7 +23,7 @@ This is a relative term. Original token usually refer to assets that have not be
 Relayers are a group of competing and supervising entities to maintain and accomplish the bridge's information transfer tasks. Relayers cannot have a substantial impact on the safety of a bridge, but have a direct role in the stability and effectiveness of the bridge.
 
 ## CBA Model
-![01](../../static/img/cba01.png)
+![01](../static/img/cba01.png)
 Build the Backing module on the source chain and the Issuing module on the target chain, and the underlying call to the generic bridge message channel interface to complete the asset registration and issuance process.
 
 * Backing
@@ -35,7 +35,7 @@ Deployed on source chain. User tokens are locked to the Backing module, Backing 
 Deployed on target chain. Backed by the original token in the locking model, Issuing issues mapping token to the user's account. When a user initiates a redemption operation, Issuing burns the mapping token and generates a proof of destruction for the original token redemption.
 
 ## Protocol
-![02](../../static/img/mapping_token.svg)
+![02](../static/img/mapping_token.svg)
 * Register
 
 Token registration is the process of registering the original token to the Backing module on the source chain and mapping it to the mapping token on the target chain.

@@ -5,19 +5,22 @@ sidebar_label: Helix Bridge
 slug: /
 ---
 
-# Helix Bridge
+# Welcome to Helix
 
-Helix will provide a secure and convenient service for asset cross-chain users.
+Helix Bridge provide a secure and convenient service for users to transfer assets between Ethereum, Darwinia, Arbitrum, and Polkadot parachains. It offers low cost and fast transfers, and also integrates the best asset bridging projects in the industry.
 
 ## Aggregation
-Helix integrates the best asset bridging projects in the industry, providing users with a filtered list of asset bridges and a cross-chain portal. Users will be able to observe the bridge connectivity between chains, as well as their costs, timeliness and other characteristics through Helix. They can also easily use their wallets to interact with various bridges and complete asset transfers across chains.
 
-## Asset Bridges
-Helix will also use secure and common bridge services in the market to help users with asset hosting and cross-chain transfers. We will gradually support various EVM-based chains and also delve into the polka ecology to support asset exchange on various underlying chains. helix will support various types of asset cross-chains, such as Erc20, Erc721, etc.
+Helix supports access to third-party bridges and searches for reasonable paths for users to transfer tokens.
 
-## Security
-Helix is very careful about the safety of users' assets and will do strict screening of comprehensive asset bridge projects. Multiple layers of redundant security verification will be done for user assets hosted in Helix, and Dao will be utilized for worst-case emergency rescue.
+* **Convenient and Intuitive** It integrates different bridges into the same portal and shows the familiarity of all bridges in terms of fees, arrival times, etc.
+* **Non-Hosted** For third-party bridges, Helix does not host user assets, but only serves as a portal for users to select and use third-party bridges. Despite our careful selection and prompting, users need to understand that the security of third-party bridges cannot be guaranteed by Helix.
+* **Multi-chain** It supports not only the Ethereum ecosystem, but also the Polkadot ecosystem, and builds bridges between them.
 
-## Data Services
-Helix also provides transaction history display and analysis services, and all cross-chain transfer records and details are clearly displayed. When a user is more concerned about the flow of his funds and the bridge transfer process, he can easily view these details through Helix.
+## Helix Token Bridge
+
+Helix does not deal with generic message bridge between chains, but focuses on token transfers. Helix chooses a secure and stable generic message bridge and implements its own token transfer protocol based on it.
+
+* **Safe** It use the safe and trustless message protocol, such as cross-L1, light client technology and polkadot HRMP message channel.
+* **Low-Cost and High-latency** It allows users to use the Liquidate Node transfer mode, where transactions accur between two EOA accounts and do not rely on bridge messages, thus it has low cost and high speed.
 
