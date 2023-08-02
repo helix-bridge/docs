@@ -10,14 +10,6 @@ sidebar_label: Support Chains
 * Darwinia Network
 * Crab Network
 * Arbitrum One
-* Astar
-* Avalanche
-* Optimism
-* Polygon(matic)
-* Karura
-* Khala Network
-* Moonriver
-* Shiden
 
 ## Addresses
 ### Tokens

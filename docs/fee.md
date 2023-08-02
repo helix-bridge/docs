@@ -20,11 +20,9 @@ The only fees you need to pay are Gas fees (for transactions), and Msg Bridgi
 
 |  From-To                        | Provider | Pay with_token | Fee cost |
 | -----------------------------| -------------- | ----------------| ----------------|
-| Darwinia <\>Crab Smart Chain           Crab Chain <\> Crab Parachain | Helix                  | NativeToken      | Prices are totally determined by the market `FeeMarket`. For specific msg bridging fees of the transactions,  refer to the interface display of the Helix App. |  
-|Crab Chain<\>Crab Smart Chain| Helix | - | free |   
-|Ethereum → Darwinia *| Helix | RING | 10 RING per transaction |   
-|Darwinia → Ethereum *| Helix | RING | 50 RING per transaction |   
-|Heco<\> Crab Parachain| cBridge |   |    |    
+|Ethereum → Darwinia *| Helix | RING | decided by message relayer |   
+|Darwinia → Ethereum *| Helix | RING | decided by message relayer |   
+|Arbitrum → Ethereum *| Helix | RING | decided by message relayer |   
 
 - Note: Since transactions (Ethereum<\>Dariwinia) are involved on the Ethereum network, there will be a relatively high cost of gas fee to pay. The users can decide when to initiate the transaction based on the real-time gas price on the Ethereum chain.     
 
